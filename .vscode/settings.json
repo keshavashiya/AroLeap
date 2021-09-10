@@ -1,0 +1,15 @@
+{
+    "workbench.colorCustomizations": {
+        "[keshav]": {
+            "statusBar.background": "#486357",
+            "statusBar.foreground": "#c8e9c5"
+        },
+        "[keshavashiya]": {
+            "statusBar.background": "#385357",
+            "statusBar.foreground": "#d7e9c4"
+        },
+        "activityBar.background": "#193404",
+        "titleBar.activeBackground": "#234906",
+        "titleBar.activeForeground": "#F4FEEC"
+    }
+}
